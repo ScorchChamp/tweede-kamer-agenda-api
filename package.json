@@ -1,0 +1,25 @@
+{
+  "name": "tweede-kamer-agenda-api",
+  "version": "1.0.0",
+  "description": "Tweede kamer agenda api. + Huidig debat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScorchChamp/tweede-kamer-agenda-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScorchChamp/tweede-kamer-agenda-api/issues"
+  },
+  "homepage": "https://github.com/ScorchChamp/tweede-kamer-agenda-api#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2"
+  }
+}
